@@ -83,8 +83,8 @@
       <file leaf-file-name="SeckillController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/jzx/secondKill/web/SeckillController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="99" column="5" lean-forward="true" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+            <state relative-caret-position="335">
+              <caret line="43" column="43" lean-forward="true" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -691,7 +691,7 @@
       <workItem from="1532760409353" duration="9741000" />
       <workItem from="1532780611644" duration="4760000" />
       <workItem from="1532850419128" duration="1556000" />
-      <workItem from="1532914697573" duration="6040000" />
+      <workItem from="1532914697573" duration="8186000" />
     </task>
     <servers />
   </component>
@@ -728,7 +728,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61307000" />
+    <option name="totallyTimeSpent" value="63453000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1139,8 +1139,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/jzx/secondKill/web/SeckillController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="99" column="5" lean-forward="true" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+        <state relative-caret-position="335">
+          <caret line="43" column="43" lean-forward="true" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
